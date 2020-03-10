@@ -1,3 +1,7 @@
+/**
+ * Author:Eric Dao
+ * Date: 3/9/2020
+ */
 public class Main{
     public static void main(String[] args){
         Player player = new Player();
