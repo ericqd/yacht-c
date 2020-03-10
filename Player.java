@@ -46,7 +46,7 @@ public class Player{
         }
         sort();
         System.out.println("Rolling Dice...");
-        System.out.print(this);
+        System.out.println(this);
         if(isThreeOfKind()){
             System.out.println("You got a 3 of a kind");
             points +=3;
